@@ -10,3 +10,4 @@ if (chute == numeroSecreto) {
 } else {
     alert('Você errou :(')
 }
+
